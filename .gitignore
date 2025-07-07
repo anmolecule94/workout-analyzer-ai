@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pkl
+*.log
+
+# Environment
+.env
+.venv/
+*.env
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Audio/Video generated during runs
+*.mp3
+*.wav
+*.mp4
+
+# Output folders
+outputs/
+output/
+uploads/
+audio_clips/
+
+# Dataset artifacts
+exercise_data.csv
+*.pkl
+
+# Streamlit temp
+.streamlit/
+
+# Notebook checkpoints
+*.ipynb_checkpoints

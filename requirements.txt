@@ -1,0 +1,7 @@
+streamlit
+mediapipe
+opencv-python
+numpy
+joblib
+pyttsx3
+pydub
