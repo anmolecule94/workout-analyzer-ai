@@ -1,7 +1,7 @@
 # Python cache
 __pycache__/
 *.py[cod]
-*.pkl
+#*.pkl
 *.log
 
 # Environment
@@ -30,7 +30,7 @@ audio_clips/
 
 # Dataset artifacts
 exercise_data.csv
-*.pkl
+#*.pkl
 
 # Streamlit temp
 .streamlit/
